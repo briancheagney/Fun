@@ -1,9 +1,15 @@
 ------------------
 System Information
 ------------------
+<<<<<<< HEAD
       Time of this report: 10/30/2018, 10:24:47
              Machine name: NQSC125-MSI-13
                Machine Id: {B8641C14-6FAF-45A6-AB89-BF746F591DD3}
+=======
+      Time of this report: 10/30/2018, 10:24:38
+             Machine name: NQSC125-MSI-07
+               Machine Id: {08002C82-95CB-4E4B-85AB-92B7C7300AA1}
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
                  Language: English (Regional Setting: English)
       System Manufacturer: Micro-Star International Co., Ltd.
@@ -12,7 +18,11 @@ System Information
                 Processor: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32712MB RAM
+<<<<<<< HEAD
                 Page File: 7115MB used, 30460MB available
+=======
+                Page File: 8733MB used, 28843MB available
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -96,7 +106,11 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
            Device ID: 0x1B81
            SubSys ID: 0x33011462
          Revision ID: 0x00A1
+<<<<<<< HEAD
   Driver Strong Name: oem7.inf:0f066de361866ac3:Section136:23.21.13.8813:pci\ven_10de&dev_1b81
+=======
+  Driver Strong Name: oem10.inf:0f066de361866ac3:Section136:23.21.13.8813:pci\ven_10de&dev_1b81
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
       Rank Of Driver: 00D12001
          Video Accel: 
          DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeHEVC_VLD_Main10  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  DXVA2_ModeVP9_VLD_Profile0  
@@ -156,6 +170,7 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
 -------------
 Sound Devices
 -------------
+<<<<<<< HEAD
             Description: Speakers (USB Audio DAC   )
  Default Sound Playback: Yes
  Default Voice Playback: Yes
@@ -170,6 +185,22 @@ Sound Devices
           Date and Size: 4/11/2018 12:00:00 AM, 151552 bytes
             Other Files: 
         Driver Provider: Microsoft
+=======
+            Description: C22W-4 (NVIDIA High Definition Audio)
+ Default Sound Playback: Yes
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0083&SUBSYS_14623301&REV_1001
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: nvhda64v.sys
+         Driver Version: 1.03.0035.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 10/27/2017 12:00:00 AM, 233904 bytes
+            Other Files: 
+        Driver Provider: NVIDIA Corporation
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
          HW Accel Level: Basic
               Cap Flags: 0xF1F
     Min/Max Sample Rate: 100, 200000
@@ -181,7 +212,11 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: Realtek Digital Output (Realtek High Definition Audio)
+=======
+            Description: Speakers (Realtek High Definition Audio)
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
@@ -206,9 +241,15 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: Speakers (Realtek High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
+=======
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: Yes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
         Manufacturer ID: 1
              Product ID: 100
@@ -231,6 +272,7 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: C22W-4 (NVIDIA High Definition Audio)
  Default Sound Playback: No
  Default Voice Playback: No
@@ -245,6 +287,22 @@ Sensaura(tm) ZoomFX(tm): No
           Date and Size: 10/27/2017 12:00:00 AM, 233904 bytes
             Other Files: 
         Driver Provider: NVIDIA Corporation
+=======
+            Description: Speakers (USB Audio DAC   )
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: USB\VID_08BB&PID_2706&REV_0100&MI_00
+        Manufacturer ID: 65535
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: USBAUDIO.sys
+         Driver Version: 10.00.17134.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 4/11/2018 12:00:00 AM, 151552 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
          HW Accel Level: Basic
               Cap Flags: 0xF1F
     Min/Max Sample Rate: 100, 200000
@@ -269,6 +327,7 @@ Sound Capture Devices
               Cap Flags: 0x1
            Format Flags: 0xFFFFF
 
+<<<<<<< HEAD
             Description: Microphone (Realtek High Definition Audio)
   Default Sound Capture: No
   Default Voice Capture: No
@@ -279,13 +338,19 @@ Sound Capture Devices
               Cap Flags: 0x1
            Format Flags: 0xFFFFF
 
+=======
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 ---------------------
 Video Capture Devices
 Number of Devices: 1
 ---------------------
            FriendlyName: Monitor Webcam C22W
                Category: Camera
+<<<<<<< HEAD
            SymbolicLink: \\?\usb#vid_05a9&pid_2645&mi_00#7&15bf5719&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
+=======
+           SymbolicLink: \\?\usb#vid_05a9&pid_2645&mi_00#7&3aba1c22&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
                Location: n/a
                Rotation: n/a
            Manufacturer: Creative Technology Ltd.
@@ -298,10 +363,17 @@ Number of Devices: 1
                 Service: OEM10Vid
                   Class: Image
           DevNodeStatus: 180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]
+<<<<<<< HEAD
             ContainerId: {FD77F999-6E68-11E8-9A7E-806E6F6E6963}
             ProblemCode: No Problem
   BusReportedDeviceDesc: Monitor Webcam C22W
                  Parent: USB\VID_05A9&PID_2645\6&38d0eebb&0&1
+=======
+            ContainerId: {05806A80-6E62-11E8-9A7E-806E6F6E6963}
+            ProblemCode: No Problem
+  BusReportedDeviceDesc: Monitor Webcam C22W
+                 Parent: USB\VID_05A9&PID_2645\6&1b3a2360&0&1
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
       DriverProblemDesc: n/a
            UpperFilters: OEM10Vfx
            LowerFilters: n/a
@@ -359,23 +431,59 @@ USB Devices
 | Vendor/Product ID: 0x8086, 0xA2AF
 | Matching Device ID: USB\ROOT_HUB30
 | Service: USBHUB3
+<<<<<<< HEAD
 | Driver: USBHUB3.SYS, 6/8/2018 05:30:50, 565152 bytes
 | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x0DB0, 0xB7BD
 | | Location: Port_#0005.Hub_#0001
+=======
+| Driver: USBHUB3.SYS, 5/14/2018 09:22:05, 565152 bytes
+| 
++-+ HID-compliand device
+| | Vendor/Product ID: 0x093A, 0x2521
+| | Location: Port_#0002.Hub_#0001
+| | Matching Device ID: usb\vid_093a&pid_2521
+| | Lower Filters: t_mouse.sys
+| | Service: HidUsb
+| | Driver: t_mouse.sys, 12/19/2012 08:42:10, 6144 bytes
+| | Driver: TiltWheelMouse.exe, 12/19/2012 08:42:10, 241152 bytes
+| | Driver: mousecpl.dll, 12/19/2012 08:42:08, 157696 bytes
+| | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
+| | Driver: hidclass.sys, 5/14/2018 09:22:08, 173568 bytes
+| | Driver: hidparse.sys, 5/14/2018 09:22:08, 46080 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x093A, 0x2521
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 5/14/2018 09:21:57, 33280 bytes
+| | | Driver: mouclass.sys, 5/14/2018 09:22:03, 56728 bytes
+| | 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x0DB0, 0xB7BD
+| | Location: Port_#0008.Hub_#0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 5/14/2018 09:22:07, 168864 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0DB0, 0xB7BD
+<<<<<<< HEAD
 | | | Location: 0000.0014.0000.005.000.000.000.000.000
+=======
+| | | Location: 0000.0014.0000.008.000.000.000.000.000
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
 | | | Driver: hidclass.sys, 5/14/2018 09:22:08, 173568 bytes
+<<<<<<< HEAD
 | | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+=======
+| | | Driver: hidparse.sys, 5/14/2018 09:22:08, 46080 bytes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | | 
 | | +-+ HID Keyboard Device
 | | | | Vendor/Product ID: 0x0DB0, 0xB7BD
@@ -386,12 +494,20 @@ USB Devices
 | | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0DB0, 0xB7BD
+<<<<<<< HEAD
 | | | Location: 0000.0014.0000.005.000.000.000.000.000
+=======
+| | | Location: 0000.0014.0000.008.000.000.000.000.000
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | | Matching Device ID: USB\Class_03
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
 | | | Driver: hidclass.sys, 5/14/2018 09:22:08, 173568 bytes
+<<<<<<< HEAD
 | | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+=======
+| | | Driver: hidparse.sys, 5/14/2018 09:22:08, 46080 bytes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | | 
 | | +-+ HID Keyboard Device
 | | | | Vendor/Product ID: 0x0DB0, 0xB7BD
@@ -413,6 +529,7 @@ USB Devices
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 5/14/2018 09:21:47, 40448 bytes
 | | | | Driver: kbdclass.sys, 5/14/2018 09:22:07, 63904 bytes
+<<<<<<< HEAD
 | | 
 +-+ HID-compliand device
 | | Vendor/Product ID: 0x093A, 0x2521
@@ -433,6 +550,8 @@ USB Devices
 | | | Service: mouhid
 | | | Driver: mouhid.sys, 5/14/2018 09:21:57, 33280 bytes
 | | | Driver: mouclass.sys, 5/14/2018 09:22:03, 56728 bytes
+=======
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 ----------------
 Gameport Devices
@@ -446,13 +565,21 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
+<<<<<<< HEAD
  Free Space: 83.6 GB
+=======
+ Free Space: 62.9 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 244.2 GB
 File System: NTFS
       Model: INTEL SSDPEKKW256G7
 
       Drive: D:
+<<<<<<< HEAD
  Free Space: 2676.0 GB
+=======
+ Free Space: 2643.2 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 2842.4 GB
 File System: NTFS
       Model: ST3000DM001-1ER166
@@ -604,7 +731,11 @@ Device ID: PCI\VEN_10DE&DEV_1B81&SUBSYS_33011462&REV_A1\4&1A0F6780&0&0008
 
      Name: Standard NVM Express Controller
 Device ID: PCI\VEN_8086&DEV_F1A5&SUBSYS_390A8086&REV_03\4&399E2BA9&0&00D8
+<<<<<<< HEAD
    Driver: C:\windows\system32\DRIVERS\stornvme.sys, 10.00.17134.0081 (English), 5/20/2018 08:33:14, 105368 bytes
+=======
+   Driver: C:\windows\system32\DRIVERS\stornvme.sys, 10.00.17134.0001 (English), 5/14/2018 09:22:03, 105376 bytes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
      Name: Intel(R) 200 Series Chipset Family SMBUS - A2A3
 Device ID: PCI\VEN_8086&DEV_A2A3&SUBSYS_B9071462&REV_00\3&11583659&0&FC
@@ -630,7 +761,11 @@ WMSpeech Decoder DMO,0x00600800,1,1,WMSPDMOD.DLL,10.00.17134.0001
 MP3 Decoder DMO,0x00600800,1,1,mp3dmod.dll,10.00.17134.0001
 Mpeg4s Decoder DMO,0x00800001,1,1,mp4sdecd.dll,10.00.17134.0001
 WMV Screen decoder DMO,0x00600800,1,1,wmvsdecd.dll,10.00.17134.0001
+<<<<<<< HEAD
 WMVideo Decoder DMO,0x00800001,1,1,wmvdecod.dll,10.00.17134.0112
+=======
+WMVideo Decoder DMO,0x00800001,1,1,wmvdecod.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Mpeg43 Decoder DMO,0x00800001,1,1,mp43decd.dll,10.00.17134.0001
 Mpeg4 Decoder DMO,0x00800001,1,1,mpg4decd.dll,10.00.17134.0001
 DV Muxer,0x00400000,0,0,qdv.dll,10.00.17134.0001
@@ -640,7 +775,11 @@ WM ASF Reader,0x00400000,0,0,qasf.dll,12.00.17134.0001
 AVI Splitter,0x00600000,1,1,quartz.dll,10.00.17134.0001
 VGA 16 Color Ditherer,0x00400000,1,1,quartz.dll,10.00.17134.0001
 SBE2MediaTypeProfile,0x00200000,0,0,sbe.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0112
+=======
+Microsoft DTV-DVD Video Decoder,0x005fffff,2,4,msmpeg2vdec.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 AC3 Parser Filter,0x00600000,1,1,mpg2splt.ax,10.00.17134.0001
 StreamBufferSink,0x00200000,0,0,sbe.dll,10.00.17134.0001
 MJPEG Decompressor,0x00600000,1,1,quartz.dll,10.00.17134.0001
@@ -650,12 +789,20 @@ VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.17134.0001
 MPEG-2 Splitter,0x005fffff,1,0,mpg2splt.ax,10.00.17134.0001
 Closed Captions Analysis Filter,0x00200000,2,5,cca.dll,10.00.17134.0001
 SBE2FileScan,0x00200000,0,0,sbe.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microsoft MPEG-2 Video Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.17134.0112
+=======
+Microsoft MPEG-2 Video Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Internal Script Command Renderer,0x00800001,1,0,quartz.dll,10.00.17134.0001
 MPEG Audio Decoder,0x03680001,1,1,quartz.dll,10.00.17134.0001
 DV Splitter,0x00600000,1,2,qdv.dll,10.00.17134.0001
 Video Mixing Renderer 9,0x00200000,1,0,quartz.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microsoft MPEG-2 Encoder,0x00200000,2,1,msmpeg2enc.dll,10.00.17134.0112
+=======
+Microsoft MPEG-2 Encoder,0x00200000,2,1,msmpeg2enc.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 ACM Wrapper,0x00600000,1,1,quartz.dll,10.00.17134.0001
 Video Renderer,0x00800001,1,0,quartz.dll,10.00.17134.0001
 MPEG-2 Video Stream Analyzer,0x00200000,0,0,sbe.dll,10.00.17134.0001
@@ -671,7 +818,11 @@ VSFilter (auto-loading version),0x00800002,2,1,vsfilter.dll,1.07.0015.0000
 DVD Navigator,0x00200000,0,3,qdvd.dll,10.00.17134.0001
 Overlay Mixer2,0x00200000,1,1,,
 AVI Draw,0x00600064,9,1,quartz.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microsoft MPEG-2 Audio Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.17134.0112
+=======
+Microsoft MPEG-2 Audio Encoder,0x00200000,1,1,msmpeg2enc.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 WST Pager,0x00200000,1,1,WSTPager.ax,10.00.17134.0001
 MPEG-2 Demultiplexer,0x00600000,1,1,mpg2splt.ax,10.00.17134.0001
 DV Video Decoder,0x00800000,1,1,qdv.dll,10.00.17134.0001
@@ -690,7 +841,11 @@ MIDI Parser,0x00400000,1,1,quartz.dll,10.00.17134.0001
 Multi-file Parser,0x00400000,1,1,quartz.dll,10.00.17134.0001
 File stream renderer,0x00400000,1,1,quartz.dll,10.00.17134.0001
 madVR,0x00200000,1,0,madVR64.ax,0.92.0014.0000
+<<<<<<< HEAD
 Microsoft DTV-DVD Audio Decoder,0x005fffff,1,1,msmpeg2adec.dll,10.00.17134.0112
+=======
+Microsoft DTV-DVD Audio Decoder,0x005fffff,1,1,msmpeg2adec.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 StreamBufferSink2,0x00200000,0,0,sbe.dll,10.00.17134.0001
 AVI Mux,0x00200000,1,0,qcap.dll,10.00.17134.0001
 Line 21 Decoder 2,0x00600002,1,1,quartz.dll,10.00.17134.0001
@@ -726,18 +881,27 @@ MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.17134.0001
 
 Audio Capture Sources:
 Microphone (Monitor Webcam C22W),0x00200000,0,0,qcap.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microphone (Realtek High Definition Audio),0x00200000,0,0,qcap.dll,10.00.17134.0001
 
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17134.0112
 PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.17134.0112
 PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.17134.0112
+=======
+
+PBDA CP Filters:
+PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17134.0001
+PBDA ETFilter,0x00200000,0,0,CPFilters.dll,10.00.17134.0001
+PBDA PTFilter,0x00200000,0,0,CPFilters.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 Midi Renderers:
 Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.17134.0001
 
 WDM Streaming Capture Devices:
+<<<<<<< HEAD
 ,0x00000000,0,0,,
 Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
@@ -750,6 +914,20 @@ USB Audio DAC   ,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 ,0x00000000,0,0,,
+=======
+Monitor Webcam C22W,0x00000000,0,0,,
+,0x00000000,0,0,,
+Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+
+WDM Streaming Rendering Devices:
+Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+,0x00000000,0,0,,
+USB Audio DAC   ,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
@@ -772,6 +950,7 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 
 Audio Renderers:
+<<<<<<< HEAD
 Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
@@ -782,6 +961,18 @@ DirectSound: C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+=======
+C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
+Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 
 ----------------------------
@@ -863,6 +1054,7 @@ Media Foundation Transforms
 
 Video Decoders:
   NVIDIA MJPEG Video Decoder MFT, {70F36578-2741-454F-B494-E8563DDD1CB4}, 0x4, 8, nvDecMFTMjpeg.dll, 23.21.0013.8813
+<<<<<<< HEAD
   Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0112
   DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17134.0001
   Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17134.0001
@@ -872,12 +1064,24 @@ Video Decoders:
   MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17134.0001
   Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.17134.0001
   Microsoft WebM MF VP8 Decoder Transform, {E3AAF548-C9A4-4C6E-234D-5ADA374B0000}, 0x1, MSVP9DEC.dll, 10.00.17134.0112
+=======
+  Microsoft MPEG Video Decoder MFT, {2D709E52-123F-49B5-9CBC-9AF5CDE28FB9}, 0x1, msmpeg2vdec.dll, 10.00.17134.0001
+  DV Decoder MFT, {404A6DE5-D4D6-4260-9BC7-5A6CBD882432}, 0x1, mfdvdec.dll, 10.00.17134.0001
+  Mpeg4s Decoder MFT, CLSID_CMpeg4sDecMFT, 0x1, mp4sdecd.dll, 10.00.17134.0001
+  Microsoft H264 Video Decoder MFT, CLSID_CMSH264DecoderMFT, 0x1, msmpeg2vdec.dll, 10.00.17134.0001
+  WMV Screen decoder MFT, CLSID_CMSSCDecMediaObject, 0x1, wmvsdecd.dll, 10.00.17134.0001
+  WMVideo Decoder MFT, CLSID_CWMVDecMediaObject, 0x1, wmvdecod.dll, 10.00.17134.0001
+  MJPEG Decoder MFT, {CB17E772-E1CC-4633-8450-5617AF577905}, 0x1, mfmjpegdec.dll, 10.00.17134.0001
+  Mpeg43 Decoder MFT, CLSID_CMpeg43DecMediaObject, 0x1, mp43decd.dll, 10.00.17134.0001
+  Microsoft WebM MF VP8 Decoder Transform, {E3AAF548-C9A4-4C6E-234D-5ADA374B0000}, 0x1, MSVP9DEC.dll, 10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
   Mpeg4 Decoder MFT, CLSID_CMpeg4DecMediaObject, 0x1, mpg4decd.dll, 10.00.17134.0001
 Video Encoders:
   NVIDIA H.264 Encoder MFT, {60F44560-5A20-4857-BFEF-D29773CB8040}, 0x4, 8, nvEncMFTH264.dll, 23.21.0013.8813
   NVIDIA HEVC Encoder MFT, {966F107C-8EA2-425D-B822-E4A71BEF01D7}, 0x4, 8, nvEncMFThevc.dll, 23.21.0013.8813
   H264 Encoder MFT, {6CA50344-051A-4DED-9779-A43305165E35}, 0x1, mfh264enc.dll, 10.00.17134.0001
   WMVideo8 Encoder MFT, CLSID_CWMVXEncMediaObject, 0x1, wmvxencd.dll, 10.00.17134.0001
+<<<<<<< HEAD
   Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0081
   H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17134.0001
   WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17134.0001
@@ -907,15 +1111,54 @@ Audio Decoders:
   MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.17134.0001
   Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.17134.0001
   ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17134.0112
+=======
+  Microsoft MF VPX Encoder Transform, {AEB6C755-2546-4881-82CC-E15AE5EBFF3D}, 0x1, MSVPXENC.dll, 10.00.17134.0001
+  H263 Encoder MFT, {BC47FCFE-98A0-4F27-BB07-698AF24F2B38}, 0x1, mfh263enc.dll, 10.00.17134.0001
+  WMVideo9 Encoder MFT, CLSID_CWMV9EncMediaObject, 0x1, wmvencod.dll, 10.00.17134.0001
+  Microsoft MPEG-2 Video Encoder MFT, {E6335F02-80B7-4DC4-ADFA-DFE7210D20D5}, 0x2, msmpeg2enc.dll, 10.00.17134.0001
+Video Effects:
+  Frame Rate Converter, CLSID_CFrameRateConvertDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
+  Resizer MFT, CLSID_CResizerDMO, 0x1, vidreszr.dll, 10.00.17134.0001
+  VideoStabilization MFT, {51571744-7FE4-4FF2-A498-2DC34FF74F1B}, 0x1, MSVideoDSP.dll, 10.00.17134.0001
+  Color Control, CLSID_CColorControlDmo, 0x1, mfvdsp.dll, 10.00.17134.0001
+  Color Converter MFT, CLSID_CColorConvertDMO, 0x1, colorcnv.dll, 10.00.17134.0001
+Video Processor:
+  Microsoft Video Processor MFT, {88753B26-5B24-49BD-B2E7-0C445C78C982}, 0x1, msvproc.dll, 10.00.17134.0001
+Audio Decoders:
+  Microsoft Dolby Digital Plus Decoder MFT, {177C0AFE-900B-48D4-9E4C-57ADD250B3D4}, 0x1, DolbyDecMFT.dll, 10.00.17134.0001
+  MS AMRNB Decoder MFT, {265011AE-5481-4F77-A295-ABB6FFE8D63E}, 0x1, MSAMRNBDecoder.dll, 10.00.17134.0001
+  WMAudio Decoder MFT, CLSID_CWMADecMediaObject, 0x1, WMADMOD.DLL, 10.00.17134.0001
+  Microsoft AAC Audio Decoder MFT, CLSID_CMSAACDecMFT, 0x1, MSAudDecMFT.dll, 10.00.17134.0001
+  A-law Wrapper MFT, {36CB6E0C-78C1-42B2-9943-846262F31786}, 0x1, mfcore.dll, 10.00.17134.0001
+  GSM ACM Wrapper MFT, {4A76B469-7B66-4DD4-BA2D-DDF244C766DC}, 0x1, mfcore.dll, 10.00.17134.0001
+  WMAPro over S/PDIF MFT, CLSID_CWMAudioSpdTxDMO, 0x1, WMADMOD.DLL, 10.00.17134.0001
+  Microsoft Opus Audio Decoder MFT, {63E17C10-2D43-4C42-8FE3-8D8B63E46A6A}, 0x1, MSOpusDecoder.dll, 10.00.17134.0001
+  Microsoft FLAC Audio Decoder MFT, {6B0B3E6B-A2C5-4514-8055-AFE8A95242D9}, 0x1, MSFlacDecoder.dll, 10.00.17134.0001
+  Microsoft MPEG Audio Decoder MFT, {70707B39-B2CA-4015-ABEA-F8447D22D88B}, 0x1, MSAudDecMFT.dll, 10.00.17134.0001
+  WMSpeech Decoder DMO, CLSID_CWMSPDecMediaObject, 0x1, WMSPDMOD.DLL, 10.00.17134.0001
+  G711 Wrapper MFT, {92B66080-5E2D-449E-90C4-C41F268E5514}, 0x1, mfcore.dll, 10.00.17134.0001
+  IMA ADPCM ACM Wrapper MFT, {A16E1BFF-A80D-48AD-AECD-A35C005685FE}, 0x1, mfcore.dll, 10.00.17134.0001
+  MP3 Decoder MFT, CLSID_CMP3DecMediaObject, 0x1, mp3dmod.dll, 10.00.17134.0001
+  Microsoft ALAC Audio Decoder MFT, {C0CD7D12-31FC-4BBC-B363-7322EE3E1879}, 0x1, MSAlacDecoder.dll, 10.00.17134.0001
+  ADPCM ACM Wrapper MFT, {CA34FE0A-5722-43AD-AF23-05F7650257DD}, 0x1, mfcore.dll, 10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
   Dolby TrueHD IEC-61937 converter MFT, {CF5EEEDF-0E92-4B3B-A161-BD0FFE545E4B}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
   DTS IEC-61937 converter MFT, {D035E24C-C877-42D7-A795-2A8A339B472F}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
 Audio Encoders:
   LPCM DVD-Audio MFT, {068A8476-9229-4CC0-9D49-2FC699DCD30A}, 0x1, mfaudiocnv.dll, 10.00.17134.0001
+<<<<<<< HEAD
   MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17134.0112
   Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.17134.0001
   WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.17134.0001
   MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.17134.0001
   Microsoft MPEG-2 Audio Encoder MFT, {46A4DD5C-73F8-4304-94DF-308F760974F4}, 0x1, msmpeg2enc.dll, 10.00.17134.0112
+=======
+  MP3 Encoder ACM Wrapper MFT, {11103421-354C-4CCA-A7A3-1AFF9A5B6701}, 0x1, mfcore.dll, 10.00.17134.0001
+  Microsoft FLAC Audio Encoder MFT, {128509E9-C44E-45DC-95E9-C255B8F466A6}, 0x1, MSFlacEncoder.dll, 10.00.17134.0001
+  WM Speech Encoder DMO, CLSID_CWMSPEncMediaObject2, 0x1, WMSPDMOE.DLL, 10.00.17134.0001
+  MS AMRNB Encoder MFT, {2FAE8AFE-04A3-423A-A814-85DB454712B0}, 0x1, MSAMRNBEncoder.dll, 10.00.17134.0001
+  Microsoft MPEG-2 Audio Encoder MFT, {46A4DD5C-73F8-4304-94DF-308F760974F4}, 0x1, msmpeg2enc.dll, 10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
   WMAudio Encoder MFT, CLSID_CWMAEncMediaObject, 0x1, WMADMOE.DLL, 10.00.17134.0001
   Microsoft AAC Audio Encoder MFT, {93AF0C51-2275-45D2-A35B-F2BA21CAED00}, 0x1, mfAACEnc.dll, 10.00.17134.0001
   Microsoft ALAC Audio Encoder MFT, {9AB6A28C-748E-4B6A-BFFF-CC443B8E8FB4}, 0x1, MSAlacEncoder.dll, 10.00.17134.0001
@@ -924,9 +1167,15 @@ Audio Effects:
   AEC, CLSID_CWMAudioAEC, 0x1, mfwmaaec.dll, 10.00.17134.0001
   Resampler MFT, CLSID_CResamplerMediaObject, 0x1, resampledmo.dll, 10.00.17134.0001
 Multiplexers:
+<<<<<<< HEAD
   Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.17134.0112
 Others:
   Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0112
+=======
+  Microsoft MPEG2 Multiplexer MFT, {AB300F71-01AB-46D2-AB6C-64906CB03258}, 0x2, mfmpeg2srcsnk.dll, 10.00.17134.0001
+Others:
+  Microsoft H264 Video Remux (MPEG2TSToMP4) MFT, {05A47EBB-8BF0-4CBF-AD2F-3B71D75866F5}, 0x1, msmpeg2vdec.dll, 10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 
 --------------------------------------------
@@ -1200,6 +1449,7 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
 P2: 80073cf9
 P3: A447CF31-FF3B-40C4-86BC-F26207F3FDC0
@@ -1209,6 +1459,17 @@ P6: 0
 P7: 80070490
 P8: Update;ScanForUpdates
 P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+=======
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P10: 0
 
 
@@ -1219,7 +1480,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1238,14 +1503,22 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
 P5: 0
 P6: 1
 P7: 0
+<<<<<<< HEAD
 P8: TrustedInstaller FOD
+=======
+P8: UpdateOrchestrator
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
 P10: 0
 
@@ -1257,7 +1530,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1276,6 +1553,7 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
 P2: 80246013
 P3: B56FC2FC-2B72-4554-8071-293627D2632F
@@ -1285,6 +1563,17 @@ P6: 0
 P7: 80246013
 P8: Update;ScanForUpdates
 P9: {855E8A7C-ECB4-4CA3-B045-1DFA50104289}
+=======
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P10: 0
 
 
@@ -1295,7 +1584,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1314,7 +1607,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1333,7 +1630,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1352,7 +1653,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan
@@ -1371,7 +1676,11 @@ Response: Not available
 Cab Id: 0
 
 Problem signature:
+<<<<<<< HEAD
 P1: 10.0.17134.112
+=======
+P1: 10.0.17134.48
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 P2: 80240438
 P3: 00000000-0000-0000-0000-000000000000
 P4: Scan

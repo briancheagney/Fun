@@ -1,9 +1,15 @@
 ------------------
 System Information
 ------------------
+<<<<<<< HEAD
       Time of this report: 10/30/2018, 10:35:35
              Machine name: NQSC125-MSI-09
                Machine Id: {ECA624C4-68FE-4E8A-A191-0A4556DE2EFA}
+=======
+      Time of this report: 10/30/2018, 10:24:38
+             Machine name: NQSC125-MSI-07
+               Machine Id: {08002C82-95CB-4E4B-85AB-92B7C7300AA1}
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
                  Language: English (Regional Setting: English)
       System Manufacturer: Micro-Star International Co., Ltd.
@@ -12,7 +18,11 @@ System Information
                 Processor: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32712MB RAM
+<<<<<<< HEAD
                 Page File: 7507MB used, 30069MB available
+=======
+                Page File: 8733MB used, 28843MB available
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -30,6 +40,10 @@ DxDiag Notes
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
         Sound Tab 3: No problems found.
+<<<<<<< HEAD
+=======
+        Sound Tab 4: No problems found.
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
           Input Tab: No problems found.
 
 --------------------
@@ -180,7 +194,11 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: Realtek Digital Output (Realtek High Definition Audio)
+=======
+            Description: Speakers (Realtek High Definition Audio)
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
@@ -205,7 +223,11 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: Speakers (Realtek High Definition Audio)
+=======
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
  Default Sound Playback: No
  Default Voice Playback: Yes
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
@@ -230,6 +252,7 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
 ---------------------
 Sound Capture Devices
 ---------------------
@@ -240,13 +263,89 @@ Sound Capture Devices
          Driver Version: 6.00.0001.8328 (English)
       Driver Attributes: Final Retail
           Date and Size: 12/21/2017 01:26:56, 6089152 bytes
+=======
+            Description: Speakers (USB Audio DAC   )
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: USB\VID_08BB&PID_2706&REV_0100&MI_00
+        Manufacturer ID: 65535
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: USBAUDIO.sys
+         Driver Version: 10.00.17134.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 4/11/2018 12:00:00 AM, 151552 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+            Description: Microphone (Monitor Webcam C22W)
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: USBAUDIO.sys
+         Driver Version: 10.00.17134.0001 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 4/11/2018 19:33:46, 151552 bytes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
               Cap Flags: 0x1
            Format Flags: 0xFFFFF
 
 ---------------------
 Video Capture Devices
+<<<<<<< HEAD
 Number of Devices: 0
 ---------------------
+=======
+Number of Devices: 1
+---------------------
+           FriendlyName: Monitor Webcam C22W
+               Category: Camera
+           SymbolicLink: \\?\usb#vid_05a9&pid_2645&mi_00#7&3aba1c22&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
+               Location: n/a
+               Rotation: n/a
+           Manufacturer: Creative Technology Ltd.
+             HardwareID: USB\VID_05A9&PID_2645&REV_0100&MI_00,USB\VID_05A9&PID_2645&MI_00
+             DriverDesc: Monitor Webcam C22W
+         DriverProvider: Creative Technology Ltd.
+          DriverVersion: 1.0.6.1119
+      DriverDateEnglish: 11/19/2007 00:00:00
+    DriverDateLocalized: 11/19/2007 12:00:00 AM
+                Service: OEM10Vid
+                  Class: Image
+          DevNodeStatus: 180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]
+            ContainerId: {05806A80-6E62-11E8-9A7E-806E6F6E6963}
+            ProblemCode: No Problem
+  BusReportedDeviceDesc: Monitor Webcam C22W
+                 Parent: USB\VID_05A9&PID_2645\6&1b3a2360&0&1
+      DriverProblemDesc: n/a
+           UpperFilters: OEM10Vfx
+           LowerFilters: n/a
+                  Stack: \Driver\ksthunk,\Driver\OEM10Vfx,\Driver\OEM10Vid,\Driver\usbccgp
+      ContainerCategory: Imaging
+          SensorGroupID: n/a
+                   MFT0: n/a
+                   DMFT: n/a
+  DependentStillCapture: n/a
+     EnablePlatformDMFT: n/a
+              DMFTChain: n/a
+ EnableDshowRedirection: n/a
+     FrameServerEnabled: n/a
+             ProfileIDs: n/a
+
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 -------------------
 DirectInput Devices
 -------------------
@@ -262,6 +361,15 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+<<<<<<< HEAD
+=======
+      Device Name: USB Audio DAC   
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x08BB, 0x2706
+        FF Driver: n/a
+
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
       Device Name: HID-compliant consumer control device
          Attached: 1
     Controller ID: 0x0
@@ -287,7 +395,11 @@ USB Devices
 | 
 +-+ HID-compliand device
 | | Vendor/Product ID: 0x093A, 0x2521
+<<<<<<< HEAD
 | | Location: Port_#0006.Hub_#0001
+=======
+| | Location: Port_#0002.Hub_#0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 | | Matching Device ID: usb\vid_093a&pid_2521
 | | Lower Filters: t_mouse.sys
 | | Service: HidUsb
@@ -370,13 +482,21 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
+<<<<<<< HEAD
  Free Space: 39.0 GB
+=======
+ Free Space: 62.9 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 244.2 GB
 File System: NTFS
       Model: INTEL SSDPEKKW256G7
 
       Drive: D:
+<<<<<<< HEAD
  Free Space: 2695.9 GB
+=======
+ Free Space: 2643.2 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 2842.4 GB
 File System: NTFS
       Model: ST3000DM001-1ER166
@@ -649,7 +769,11 @@ CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.17134.0001
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.17134.0001
 
 Audio Capture Sources:
+<<<<<<< HEAD
 Microphone (Realtek High Definition Audio),0x00200000,0,0,qcap.dll,10.00.17134.0001
+=======
+Microphone (Monitor Webcam C22W),0x00200000,0,0,qcap.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17134.0001
@@ -661,15 +785,27 @@ Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.17134.0001
 
 WDM Streaming Capture Devices:
+<<<<<<< HEAD
+=======
+Monitor Webcam C22W,0x00000000,0,0,,
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 ,0x00000000,0,0,,
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+<<<<<<< HEAD
+=======
+Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 WDM Streaming Rendering Devices:
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 ,0x00000000,0,0,,
+<<<<<<< HEAD
+=======
+USB Audio DAC   ,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
@@ -678,6 +814,12 @@ Microsoft DVBS Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
 Microsoft DVBT Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
 Microsoft Network Provider,0x00200000,0,1,MSNP.ax,10.00.17134.0001
 
+<<<<<<< HEAD
+=======
+Video Capture Sources:
+Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Multi-Instance Capable VBI Codecs:
 VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.17134.0001
 
@@ -693,10 +835,19 @@ C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
 DirectSound: C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+<<<<<<< HEAD
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+=======
+DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 
 ----------------------------

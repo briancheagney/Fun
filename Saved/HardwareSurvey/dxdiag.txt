@@ -1,9 +1,15 @@
 ------------------
 System Information
 ------------------
-      Time of this report: 10/30/2018, 10:25:14
-             Machine name: NQSC125-MSI-01
-               Machine Id: {F163886B-940B-4700-B594-142DC83A9D79}
+<<<<<<< HEAD
+      Time of this report: 10/30/2018, 10:35:35
+             Machine name: NQSC125-MSI-09
+               Machine Id: {ECA624C4-68FE-4E8A-A191-0A4556DE2EFA}
+=======
+      Time of this report: 10/30/2018, 10:24:38
+             Machine name: NQSC125-MSI-07
+               Machine Id: {08002C82-95CB-4E4B-85AB-92B7C7300AA1}
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
          Operating System: Windows 10 Enterprise 64-bit (10.0, Build 17134) (17134.rs4_release.180410-1804)
                  Language: English (Regional Setting: English)
       System Manufacturer: Micro-Star International Co., Ltd.
@@ -12,7 +18,11 @@ System Information
                 Processor: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz (8 CPUs), ~3.6GHz
                    Memory: 32768MB RAM
       Available OS Memory: 32712MB RAM
-                Page File: 13496MB used, 24079MB available
+<<<<<<< HEAD
+                Page File: 7507MB used, 30069MB available
+=======
+                Page File: 8733MB used, 28843MB available
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
               Windows Dir: C:\windows
           DirectX Version: DirectX 12
       DX Setup Parameters: Not found
@@ -30,7 +40,10 @@ DxDiag Notes
         Sound Tab 1: No problems found.
         Sound Tab 2: No problems found.
         Sound Tab 3: No problems found.
+<<<<<<< HEAD
+=======
         Sound Tab 4: No problems found.
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
           Input Tab: No problems found.
 
 --------------------
@@ -156,58 +169,8 @@ Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
 -------------
 Sound Devices
 -------------
-            Description: Speakers (USB Audio DAC   )
- Default Sound Playback: Yes
- Default Voice Playback: Yes
-            Hardware ID: USB\VID_08BB&PID_2706&REV_0100&MI_00
-        Manufacturer ID: 65535
-             Product ID: 65535
-                   Type: WDM
-            Driver Name: USBAUDIO.sys
-         Driver Version: 10.00.17134.0001 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: Yes
-          Date and Size: 4/11/2018 12:00:00 AM, 151552 bytes
-            Other Files: 
-        Driver Provider: Microsoft
-         HW Accel Level: Basic
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
-            Description: Speakers (Realtek High Definition Audio)
- Default Sound Playback: No
- Default Voice Playback: No
-            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
-        Manufacturer ID: 1
-             Product ID: 100
-                   Type: WDM
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.00.0001.8328 (English)
-      Driver Attributes: Final Retail
-            WHQL Logo'd: Yes
-          Date and Size: 12/19/2017 12:00:00 AM, 6089152 bytes
-            Other Files: 
-        Driver Provider: Realtek Semiconductor Corp.
-         HW Accel Level: Basic
-              Cap Flags: 0xF1F
-    Min/Max Sample Rate: 100, 200000
-Static/Strm HW Mix Bufs: 1, 0
- Static/Strm HW 3D Bufs: 0, 0
-              HW Memory: 0
-       Voice Management: No
- EAX(tm) 2.0 Listen/Src: No, No
-   I3DL2(tm) Listen/Src: No, No
-Sensaura(tm) ZoomFX(tm): No
-
             Description: C22W-4 (NVIDIA High Definition Audio)
- Default Sound Playback: No
+ Default Sound Playback: Yes
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0083&SUBSYS_14623301&REV_1001
         Manufacturer ID: 1
@@ -231,7 +194,11 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
             Description: Realtek Digital Output (Realtek High Definition Audio)
+=======
+            Description: Speakers (Realtek High Definition Audio)
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
  Default Sound Playback: No
  Default Voice Playback: No
             Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
@@ -256,6 +223,72 @@ Static/Strm HW Mix Bufs: 1, 0
    I3DL2(tm) Listen/Src: No, No
 Sensaura(tm) ZoomFX(tm): No
 
+<<<<<<< HEAD
+            Description: Speakers (Realtek High Definition Audio)
+=======
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
+ Default Sound Playback: No
+ Default Voice Playback: Yes
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_1462B907&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.8328 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 12/19/2017 12:00:00 AM, 6089152 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+<<<<<<< HEAD
+---------------------
+Sound Capture Devices
+---------------------
+            Description: Microphone (Realtek High Definition Audio)
+  Default Sound Capture: Yes
+  Default Voice Capture: Yes
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.8328 (English)
+      Driver Attributes: Final Retail
+          Date and Size: 12/21/2017 01:26:56, 6089152 bytes
+=======
+            Description: Speakers (USB Audio DAC   )
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: USB\VID_08BB&PID_2706&REV_0100&MI_00
+        Manufacturer ID: 65535
+             Product ID: 65535
+                   Type: WDM
+            Driver Name: USBAUDIO.sys
+         Driver Version: 10.00.17134.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: Yes
+          Date and Size: 4/11/2018 12:00:00 AM, 151552 bytes
+            Other Files: 
+        Driver Provider: Microsoft
+         HW Accel Level: Basic
+              Cap Flags: 0xF1F
+    Min/Max Sample Rate: 100, 200000
+Static/Strm HW Mix Bufs: 1, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
 ---------------------
 Sound Capture Devices
 ---------------------
@@ -266,26 +299,21 @@ Sound Capture Devices
          Driver Version: 10.00.17134.0001 (English)
       Driver Attributes: Final Retail
           Date and Size: 4/11/2018 19:33:46, 151552 bytes
-              Cap Flags: 0x1
-           Format Flags: 0xFFFFF
-
-            Description: Microphone (Realtek High Definition Audio)
-  Default Sound Capture: No
-  Default Voice Capture: No
-            Driver Name: RTKVHD64.sys
-         Driver Version: 6.00.0001.8328 (English)
-      Driver Attributes: Final Retail
-          Date and Size: 12/21/2017 01:26:56, 6089152 bytes
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
               Cap Flags: 0x1
            Format Flags: 0xFFFFF
 
 ---------------------
 Video Capture Devices
+<<<<<<< HEAD
+Number of Devices: 0
+---------------------
+=======
 Number of Devices: 1
 ---------------------
            FriendlyName: Monitor Webcam C22W
                Category: Camera
-           SymbolicLink: \\?\usb#vid_05a9&pid_2645&mi_00#7&dd5f2d&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
+           SymbolicLink: \\?\usb#vid_05a9&pid_2645&mi_00#7&3aba1c22&0&0000#{e5323777-f976-4f5b-9b55-b94699c46e44}\global
                Location: n/a
                Rotation: n/a
            Manufacturer: Creative Technology Ltd.
@@ -298,10 +326,10 @@ Number of Devices: 1
                 Service: OEM10Vid
                   Class: Image
           DevNodeStatus: 180200A[DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER]
-            ContainerId: {031D1F68-6E60-11E8-9A7E-806E6F6E6963}
+            ContainerId: {05806A80-6E62-11E8-9A7E-806E6F6E6963}
             ProblemCode: No Problem
   BusReportedDeviceDesc: Monitor Webcam C22W
-                 Parent: USB\VID_05A9&PID_2645\6&88072bb&0&1
+                 Parent: USB\VID_05A9&PID_2645\6&1b3a2360&0&1
       DriverProblemDesc: n/a
            UpperFilters: OEM10Vfx
            LowerFilters: n/a
@@ -317,6 +345,7 @@ Number of Devices: 1
      FrameServerEnabled: n/a
              ProfileIDs: n/a
 
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 -------------------
 DirectInput Devices
 -------------------
@@ -332,6 +361,15 @@ Vendor/Product ID: n/a
 Vendor/Product ID: n/a
         FF Driver: n/a
 
+<<<<<<< HEAD
+=======
+      Device Name: USB Audio DAC   
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x08BB, 0x2706
+        FF Driver: n/a
+
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
       Device Name: HID-compliant consumer control device
          Attached: 1
     Controller ID: 0x0
@@ -342,12 +380,6 @@ Vendor/Product ID: 0x0DB0, 0xB7BD
          Attached: 1
     Controller ID: 0x0
 Vendor/Product ID: 0x0DB0, 0xB7BD
-        FF Driver: n/a
-
-      Device Name: USB Audio DAC   
-         Attached: 1
-    Controller ID: 0x0
-Vendor/Product ID: 0x08BB, 0x2706
         FF Driver: n/a
 
 Poll w/ Interrupt: No
@@ -361,16 +393,40 @@ USB Devices
 | Service: USBHUB3
 | Driver: USBHUB3.SYS, 5/14/2018 09:22:05, 565152 bytes
 | 
++-+ HID-compliand device
+| | Vendor/Product ID: 0x093A, 0x2521
+<<<<<<< HEAD
+| | Location: Port_#0006.Hub_#0001
+=======
+| | Location: Port_#0002.Hub_#0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
+| | Matching Device ID: usb\vid_093a&pid_2521
+| | Lower Filters: t_mouse.sys
+| | Service: HidUsb
+| | Driver: t_mouse.sys, 12/19/2012 08:42:10, 6144 bytes
+| | Driver: TiltWheelMouse.exe, 12/19/2012 08:42:10, 241152 bytes
+| | Driver: mousecpl.dll, 12/19/2012 08:42:08, 157696 bytes
+| | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
+| | Driver: hidclass.sys, 5/14/2018 09:22:08, 173568 bytes
+| | Driver: hidparse.sys, 5/14/2018 09:22:08, 46080 bytes
+| | 
+| +-+ HID-compliant mouse
+| | | Vendor/Product ID: 0x093A, 0x2521
+| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| | | Service: mouhid
+| | | Driver: mouhid.sys, 5/14/2018 09:21:57, 33280 bytes
+| | | Driver: mouclass.sys, 5/14/2018 09:22:03, 56728 bytes
+| | 
 +-+ USB Composite Device
 | | Vendor/Product ID: 0x0DB0, 0xB7BD
-| | Location: Port_#0006.Hub_#0001
+| | Location: Port_#0008.Hub_#0001
 | | Matching Device ID: USB\COMPOSITE
 | | Service: usbccgp
 | | Driver: usbccgp.sys, 5/14/2018 09:22:07, 168864 bytes
 | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0DB0, 0xB7BD
-| | | Location: 0000.0014.0000.006.000.000.000.000.000
+| | | Location: 0000.0014.0000.008.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03&SubClass_01
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
@@ -386,7 +442,7 @@ USB Devices
 | | | 
 | +-+ USB Input Device
 | | | Vendor/Product ID: 0x0DB0, 0xB7BD
-| | | Location: 0000.0014.0000.006.000.000.000.000.000
+| | | Location: 0000.0014.0000.008.000.000.000.000.000
 | | | Matching Device ID: USB\Class_03
 | | | Service: HidUsb
 | | | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
@@ -413,22 +469,6 @@ USB Devices
 | | | | Service: kbdhid
 | | | | Driver: kbdhid.sys, 5/14/2018 09:21:47, 40448 bytes
 | | | | Driver: kbdclass.sys, 5/14/2018 09:22:07, 63904 bytes
-| | 
-+-+ USB Input Device
-| | Vendor/Product ID: 0x046D, 0xC077
-| | Location: Port_#0001.Hub_#0001
-| | Matching Device ID: USB\Class_03&SubClass_01
-| | Service: HidUsb
-| | Driver: hidusb.sys, 5/14/2018 09:22:08, 42496 bytes
-| | Driver: hidclass.sys, 5/14/2018 09:22:08, 173568 bytes
-| | Driver: hidparse.sys, 5/14/2018 09:22:08, 46080 bytes
-| | 
-| +-+ HID-compliant mouse
-| | | Vendor/Product ID: 0x046D, 0xC077
-| | | Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
-| | | Service: mouhid
-| | | Driver: mouhid.sys, 5/14/2018 09:21:57, 33280 bytes
-| | | Driver: mouclass.sys, 5/14/2018 09:22:03, 56728 bytes
 
 ----------------
 Gameport Devices
@@ -442,13 +482,21 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 90.9 GB
+<<<<<<< HEAD
+ Free Space: 39.0 GB
+=======
+ Free Space: 62.9 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 244.2 GB
 File System: NTFS
       Model: INTEL SSDPEKKW256G7
 
       Drive: D:
- Free Space: 2697.3 GB
+<<<<<<< HEAD
+ Free Space: 2695.9 GB
+=======
+ Free Space: 2643.2 GB
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Total Space: 2842.4 GB
 File System: NTFS
       Model: ST3000DM001-1ER166
@@ -721,8 +769,11 @@ CCITT u-Law,0x00200000,1,1,quartz.dll,10.00.17134.0001
 MPEG Layer-3,0x00200000,1,1,quartz.dll,10.00.17134.0001
 
 Audio Capture Sources:
-Microphone (Monitor Webcam C22W),0x00200000,0,0,qcap.dll,10.00.17134.0001
+<<<<<<< HEAD
 Microphone (Realtek High Definition Audio),0x00200000,0,0,qcap.dll,10.00.17134.0001
+=======
+Microphone (Monitor Webcam C22W),0x00200000,0,0,qcap.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 PBDA CP Filters:
 PBDA DTFilter,0x00600000,1,1,CPFilters.dll,10.00.17134.0001
@@ -734,18 +785,27 @@ Default MidiOut Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Microsoft GS Wavetable Synth,0x00200000,1,0,quartz.dll,10.00.17134.0001
 
 WDM Streaming Capture Devices:
-,0x00000000,0,0,,
-Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+<<<<<<< HEAD
+=======
 Monitor Webcam C22W,0x00000000,0,0,,
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
+,0x00000000,0,0,,
 Realtek HD Audio Line input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio Stereo input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HD Audio Mic input,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+<<<<<<< HEAD
+=======
+Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 WDM Streaming Rendering Devices:
 Realtek HD Audio output,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 Realtek HDA SPDIF Out,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 ,0x00000000,0,0,,
+<<<<<<< HEAD
+=======
 USB Audio DAC   ,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 BDA Network Providers:
 Microsoft ATSC Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
@@ -754,9 +814,12 @@ Microsoft DVBS Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
 Microsoft DVBT Network Provider,0x00200000,0,1,MSDvbNP.ax,10.00.17134.0001
 Microsoft Network Provider,0x00200000,0,1,MSNP.ax,10.00.17134.0001
 
+<<<<<<< HEAD
+=======
 Video Capture Sources:
 Monitor Webcam C22W,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 Multi-Instance Capable VBI Codecs:
 VBI Codec,0x00600000,1,4,VBICodec.ax,10.00.17134.0001
 
@@ -768,16 +831,23 @@ WDM Streaming Communication Transforms:
 Tee/Sink-to-Sink Converter,0x00200000,1,1,ksproxy.ax,10.00.17134.0001
 
 Audio Renderers:
-Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Default DirectSound Device,0x00800000,1,0,quartz.dll,10.00.17134.0001
 Default WaveOut Device,0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
-DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 DirectSound: C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+<<<<<<< HEAD
 DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
-C22W-4 (NVIDIA High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
 Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+=======
+DirectSound: Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+DirectSound: Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Realtek Digital Output (Realtek High Definition Audio),0x00200000,1,0,quartz.dll,10.00.17134.0001
+Speakers (USB Audio DAC   ),0x00200000,1,0,quartz.dll,10.00.17134.0001
+>>>>>>> 2f5a8a91d11ac29281edc1436137e6d9bd5c27f3
 
 
 ----------------------------
@@ -1190,192 +1260,192 @@ Diagnostics
 
 Windows Error Reporting:
 +++ WER0 +++:
-Fault bucket 1938806750743701130, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER1 +++:
 Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER2 +++:
-Fault bucket 501206, type 5
-Event Name: InPageError
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: c00000c4
-P2: 00000000
-P3: 
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER3 +++:
-Fault bucket 501206, type 5
-Event Name: InPageError
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: c00000c4
-P2: 00000000
-P3: 
-P4: 
-P5: 
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER4 +++:
-Fault bucket 1938806750743701130, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER5 +++:
 Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER6 +++:
-Fault bucket 1938806750743701130, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER7 +++:
 Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER8 +++:
-Fault bucket 1938806750743701130, type 5
-Event Name: StoreAgentScanForUpdatesFailure0
+Fault bucket , type 0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
 +++ WER9 +++:
 Fault bucket , type 0
-Event Name: StoreAgentScanForUpdatesFailure0
+Event Name: WindowsUpdateFailure3
 Response: Not available
 Cab Id: 0
 
 Problem signature:
-P1: Update;
-P2: 80070422
-P3: 17134
-P4: 48
-P5: Windows.Desktop
-P6: 
-P7: 
-P8: 
-P9: 
-P10: 
+P1: 10.0.17134.48
+P2: 80240438
+P3: 00000000-0000-0000-0000-000000000000
+P4: Scan
+P5: 0
+P6: 1
+P7: 0
+P8: UpdateOrchestrator
+P9: {3DA21691-E39D-4DA6-8A4B-B43877BCB1B7}
+P10: 0
 
 
